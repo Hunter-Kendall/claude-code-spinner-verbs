@@ -1,6 +1,6 @@
 # Claude Code Spinner Verbs
 
-My collection of **64 spinner verbs** across 3 themed categories for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These show in the spinner while Claude is working.
+My collection of **65 spinner verbs** across 3 themed categories for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These show in the spinner while Claude is working.
 
 Layout follows [wynandw87/claude-code-spinner-verbs](https://github.com/wynandw87/claude-code-spinner-verbs).
 
@@ -45,7 +45,7 @@ The **Copy as list** dropdowns paste straight into the `verbs` array. Add a comm
 ## Categories
 
 - [Coding Phrases (9)](#coding-phrases-9)
-- [RoleModel Phrases (20)](#rolemodel-phrases-20)
+- [RoleModel Phrases (21)](#rolemodel-phrases-21)
 - [Star Wars Phrases (35)](#star-wars-phrases-35)
 
 ---
@@ -83,7 +83,7 @@ Code review, AI agents, and the occasional JavaScript surprise.
 
 </details>
 
-### RoleModel Phrases (20)
+### RoleModel Phrases (21)
 
 Chow, 15Five, Harvest, Working Genius, and life at RoleModel.
 
@@ -109,6 +109,7 @@ Chow, 15Five, Harvest, Working Genius, and life at RoleModel.
 | Making it fast |
 | Calling it load-bearing |
 | Swearing gh can't upload images |
+| Waiting for the espresso machine |
 
 <details>
 <summary>Copy as list</summary>
@@ -133,7 +134,8 @@ Chow, 15Five, Harvest, Working Genius, and life at RoleModel.
 "Making it right",
 "Making it fast",
 "Calling it load-bearing",
-"Swearing gh can't upload images"
+"Swearing gh can't upload images",
+"Waiting for the espresso machine"
 ```
 
 </details>
