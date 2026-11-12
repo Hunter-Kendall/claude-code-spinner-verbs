@@ -1,6 +1,6 @@
 # Claude Code Spinner Verbs
 
-My collection of **65 spinner verbs** across 2 themed categories for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These show in the spinner while Claude is working.
+My collection of **64 spinner verbs** across 3 themed categories for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). These show in the spinner while Claude is working.
 
 Layout follows [wynandw87/claude-code-spinner-verbs](https://github.com/wynandw87/claude-code-spinner-verbs).
 
@@ -44,14 +44,48 @@ The **Copy as list** dropdowns paste straight into the `verbs` array. Add a comm
 
 ## Categories
 
-- [RoleModel Phrases (30)](#rolemodel-phrases-30)
+- [Coding Phrases (9)](#coding-phrases-9)
+- [RoleModel Phrases (20)](#rolemodel-phrases-20)
 - [Star Wars Phrases (35)](#star-wars-phrases-35)
 
 ---
 
-### RoleModel Phrases (30)
+### Coding Phrases (9)
 
-Chow, 15Five, Harvest, Working Genius, and the AI era at RoleModel.
+Code review, AI agents, and the occasional JavaScript surprise.
+
+| Verb |
+|------|
+| Interrupting Claude for the 146th time |
+| Rolling my own solution |
+| Voice prompting through Granola |
+| Running git blame and seeing it was me |
+| Replying AI;DR |
+| Cutting the slop |
+| Getting grilled by /grill-me |
+| Reviewing with zero sets of eyes |
+| Checking if the engine is all Rust |
+
+<details>
+<summary>Copy as list</summary>
+
+```
+"Interrupting Claude for the 146th time",
+"Rolling my own solution",
+"Voice prompting through Granola",
+"Running git blame and seeing it was me",
+"Replying AI;DR",
+"Cutting the slop",
+"Getting grilled by /grill-me",
+"Reviewing with zero sets of eyes",
+"Checking if the engine is all Rust"
+```
+
+</details>
+
+### RoleModel Phrases (20)
+
+Chow, 15Five, Harvest, Working Genius, and life at RoleModel.
 
 | Verb |
 |------|
@@ -59,22 +93,8 @@ Chow, 15Five, Harvest, Working Genius, and the AI era at RoleModel.
 | Filling out last week's 15Five |
 | Handing out high fives |
 | Running /feature-review on a 20-line PR |
-| Interrupting Claude for the 146th time |
-| Rolling my own solution |
-| Pondering negative zero |
-| Voice prompting through Granola |
-| Running git blame and seeing it was me |
 | Rerouting the trip past a Buc-ee's |
-| Making it work |
-| Making it right |
-| Making it fast |
 | BRAVE-ly writing code |
-| Calling it load-bearing |
-| Swearing gh can't upload images |
-| Replying AI;DR |
-| Cutting the slop |
-| Getting grilled by /grill-me |
-| Reviewing with zero sets of eyes |
 | Putting my hands on the wheel |
 | Crafting the process, not just the code |
 | Framing and Envisioning |
@@ -84,7 +104,11 @@ Chow, 15Five, Harvest, Working Genius, and the AI era at RoleModel.
 | Voting in TeamRetro |
 | Updating Harvest before payroll |
 | Checking the budget in HarvestButGood |
-| Checking if the engine is all Rust |
+| Making it work |
+| Making it right |
+| Making it fast |
+| Calling it load-bearing |
+| Swearing gh can't upload images |
 
 <details>
 <summary>Copy as list</summary>
@@ -94,22 +118,8 @@ Chow, 15Five, Harvest, Working Genius, and the AI era at RoleModel.
 "Filling out last week's 15Five",
 "Handing out high fives",
 "Running /feature-review on a 20-line PR",
-"Interrupting Claude for the 146th time",
-"Rolling my own solution",
-"Pondering negative zero",
-"Voice prompting through Granola",
-"Running git blame and seeing it was me",
 "Rerouting the trip past a Buc-ee's",
-"Making it work",
-"Making it right",
-"Making it fast",
 "BRAVE-ly writing code",
-"Calling it load-bearing",
-"Swearing gh can't upload images",
-"Replying AI;DR",
-"Cutting the slop",
-"Getting grilled by /grill-me",
-"Reviewing with zero sets of eyes",
 "Putting my hands on the wheel",
 "Crafting the process, not just the code",
 "Framing and Envisioning",
@@ -119,7 +129,11 @@ Chow, 15Five, Harvest, Working Genius, and the AI era at RoleModel.
 "Voting in TeamRetro",
 "Updating Harvest before payroll",
 "Checking the budget in HarvestButGood",
-"Checking if the engine is all Rust"
+"Making it work",
+"Making it right",
+"Making it fast",
+"Calling it load-bearing",
+"Swearing gh can't upload images"
 ```
 
 </details>

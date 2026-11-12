@@ -125,6 +125,13 @@ def main():
             lines.insert(toc_at, toc_entry(name, len(categories[name])))
             toc_at += 1
 
+    toc_rows = [i for i, l in enumerate(lines) if TOC.match(l)]
+    ordered = sorted((lines[i] for i in toc_rows), key=lambda l: TOC.match(l).group(1).casefold())
+    if [lines[i] for i in toc_rows] != ordered:
+        problems.append("table of contents out of alphabetical order")
+        for i, entry in zip(toc_rows, ordered):
+            lines[i] = entry
+
     total = sum(len(v) for v in categories.values())
     want_total = f"**{total:,} spinner verbs** across {len(categories)} themed categories"
     for i, line in enumerate(lines):
